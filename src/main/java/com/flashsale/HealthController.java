@@ -1,4 +1,4 @@
-package com.selin.flashsale;
+package com.flashsale;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
